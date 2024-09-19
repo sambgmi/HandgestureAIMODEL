@@ -1,6 +1,8 @@
 # HandgestureAIMODEL
-
+IT CAN DO MATH OPERATIONS ALSO 
 Summary of Libraries Used![WhatsApp Image 2024-09-19 at 19 56 26_7a9095f7](https://github.com/user-attachments/assets/4f278c6f-ee41-4397-8fed-664abb0e3a60)
+digits represents as below:![Screenshot 2024-09-19 171852](https://github.com/user-attachments/assets/f4908680-6582-4c82-baab-9ee0117cbf13)
+GOOGLE CLOUD PROJECT API IS ALSO USED :![Uploading Screenshot 2024-09-19 185822.png…]()
 
 OpenCV (cv2):
 Purpose: OpenCV is an open-source computer vision and machine learning software library. It provides a comprehensive set of tools for image processing and real-time computer vision applications.
