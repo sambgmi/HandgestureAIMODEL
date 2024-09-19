@@ -37,3 +37,4 @@ Streamlit (streamlit):
   Displays the combined image output and any generated responses from the AI model within the Streamlit app interface.
 Conclusion
 These libraries work together to create an interactive application that captures video input, detects hand gestures, allows users to draw on a canvas, and sends this information to an AI model for generating responses. The combination of OpenCV for image processing, CVZone for gesture recognition, NumPy for array manipulations, Google Generative AI for content generation, Pillow for image handling, and Streamlit for web interface makes this application robust and user-friendly
+NOTE: main.py FILE IS THE MAIN RUNNING FILE REMAINING WILL GIVE UNDERSTANDING STEPS one by one OF PROJECT 
